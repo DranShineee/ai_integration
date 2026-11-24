@@ -1,0 +1,17 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# Mac/Junk
+__MACOSX/
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Proxy (SANGAT PENTING: Jangan unggah API Key!)
+proxy/.env.local
+proxy/node_modules/
